@@ -2,6 +2,6 @@ package play
 
 import "fmt"
 
-func c() {
+func C() {
 	fmt.Println("123")
 }
